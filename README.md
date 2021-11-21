@@ -5,6 +5,7 @@ Pactarno is a NodeJS boilerplate built top on ExpressJS with Typescript support
 - NodeJS
 - Typescript
 - ExpressJS
+- PostgreSQL
 - [Prisma](https://www.prisma.io/docs) (ORM)
 ### Installation
 - Install the dependencies
